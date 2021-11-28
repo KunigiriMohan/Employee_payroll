@@ -1,0 +1,9 @@
+insert into employee_payroll(name,salary,start_date) values ('mohan',500000,'2020-12-01');
+insert into employee_payroll(name,salary,start_date) values ('ravi',3000000,'2021-01-01');
+insert into employee_payroll(name,salary,start_date) values ('ram',500000,'2020-06-02');
+insert into employee_payroll(name,salary,start_date) values ('suresh',350000,'2021-07-01');
+insert into employee_payroll(name,salary,start_date) values ('rohith',400000,'2020-12-31');
+insert into employee_payroll(name,salary,start_date) values ('raghu',350000,'2021-11-06');
+insert into employee_payroll(name,salary,start_date) values ('sri',350000,'2021-11-06');
+insert into employee_payroll(name,salary,start_date) values ('latha',350000,'2021-11-06');
+insert into employee_payroll(name,salary,start_date) values ('manasa',350000,'2021-11-06');
