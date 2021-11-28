@@ -1,0 +1,10 @@
+alter table employee_payroll add Gender varchar(100) after name;
+update employee_payroll set Gender ='m' where name ='mohan';
+update employee_payroll set Gender ='m' where name ='ravi';
+update employee_payroll set Gender ='m' where name ='ram';
+update employee_payroll set Gender ='m' where name ='suresh';
+update employee_payroll set Gender ='m' where name ='rohith';
+update employee_payroll set Gender ='m' where name ='raghu';
+update employee_payroll set Gender ='f' where name ='sri';
+update employee_payroll set Gender ='f' where name ='latha';
+update employee_payroll set Gender ='f' where name ='manasa';
